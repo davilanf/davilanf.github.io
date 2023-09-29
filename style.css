@@ -1,0 +1,30 @@
+body {
+    border: solid 10px #c8973dec;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(221, 204, 142, 0.3);
+    text-align: center; 
+    min-height: 94vh; 
+    align-items: center; /* Center vertically */
+
+
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+}
+
+.istruzioni {
+    color: #333333;
+    padding-right: 100px;
+}
+
+
+#canvas {
+    width: 560px;
+    height: 560px;
+    border-radius: 15px;
+
+}
